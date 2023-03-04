@@ -5,7 +5,7 @@ import logger from './helpers/logger';
 const credential = { appState: COOKIES };
 
 async function getAnswer(question: string) {
-    const { ChatGPTAPI } = await import('chatgpt');
+    const { ChatGPTAPI } = await (eval('import("chatgpt")') as Promise<typeof import('chatgpt')>);
 
     const api = new ChatGPTAPI({
         apiKey: `${OPENAI_API_KEY}`,
