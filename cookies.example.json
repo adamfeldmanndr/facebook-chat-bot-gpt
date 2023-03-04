@@ -1,0 +1,92 @@
+[
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1712223442.935673,
+        "hostOnly": false,
+        "httpOnly": true,
+        "key": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1695267935.92942,
+        "hostOnly": false,
+        "httpOnly": true,
+        "key": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1678268244,
+        "hostOnly": false,
+        "httpOnly": false,
+        "key": "wd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1709199439.935707,
+        "hostOnly": false,
+        "httpOnly": false,
+        "key": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1709199439.935716,
+        "hostOnly": false,
+        "httpOnly": true,
+        "key": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1685439441.460408,
+        "hostOnly": false,
+        "httpOnly": true,
+        "key": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": "0",
+        "value": ""
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "key": "presence",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": true,
+        "session": true,
+        "storeId": "0",
+        "value": ""
+    }
+]
